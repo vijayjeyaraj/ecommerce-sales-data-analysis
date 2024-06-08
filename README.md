@@ -24,10 +24,6 @@ Programming Language: Python
 Libraries: Pandas, NumPy
 Tools: Jupyter Notebook, PowerBI
 
-## GitHub Repository:
-The project is open-source and available on my GitHub. Check it out to explore the code, datasets, and detailed documentation:
-GitHub Repository Link
-
 ## Contact
 
 If you have any questions, feel free to reach out:
