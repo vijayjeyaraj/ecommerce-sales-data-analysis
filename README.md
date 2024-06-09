@@ -20,9 +20,11 @@ Reporting: Generated detailed reports and dashboards for easy interpretation.
 
 ## Technologies Used:
 
-Programming Language: Python
-Libraries: Pandas, NumPy
-Tools: Jupyter Notebook, PowerBI
+**Programming Language:** Python
+
+**Libraries:** Pandas, NumPy
+
+**Tools:** Jupyter Notebook, PowerBI
 
 ## Contact
 
